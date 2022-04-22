@@ -4,7 +4,7 @@ Este projeto a junção do node e users em Js.
 
 CLONE o PROJETO.
 
-# dependencias
+# dependencias Genericas
 
 # Instalação do Package do bower para gerenciamento de css e js html https://bower.io/
 
@@ -37,3 +37,7 @@ console.log('servidor rodando!');
 6º startando o projeto no backend: npm start
 
 Obs: Apartir da linha 505 no INDEX.EJS do Formularios de EDIÇÃO, tem q ADCIONARo nome UPDATE nos IDs para sumir o Warning., Mudar nas Label o FOR= "exampleInputName" e nos Input NAME="exampleInputName" para  FOR= "exampleInputName-update"  NAME="exampleInputName-update"
+
+
+# Fz o instalação do  RESTIFY-CLIENTS  dentro do client-server
+1º npm install restify-clients --save
