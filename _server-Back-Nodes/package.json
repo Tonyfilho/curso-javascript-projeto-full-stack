@@ -14,6 +14,9 @@
     "consign": "^0.1.6",
     "express": "^4.16.3",
     "express-validator": "^5.1.2",
-    "nedb": "^1.8.0"
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.16",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
   }
 }
