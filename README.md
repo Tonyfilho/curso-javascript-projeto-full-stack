@@ -41,3 +41,12 @@ Obs: Apartir da linha 505 no INDEX.EJS do Formularios de EDIÇÃO, tem q ADCIONA
 
 # Fz o instalação do  RESTIFY-CLIENTS  dentro do client-server
 1º npm install restify-clients --save
+
+
+# Startando o Frontend
+1º Dentro do diretorio cliente-server usar o comando npm start
+
+
+# na Ultima aula foi adcionado dentro de client-server\public\classes\Fetch.js 
+
+1º uma class chamada FETCH para substituir o AJAX por o FETCH
